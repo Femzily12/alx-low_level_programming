@@ -1,4 +1,3 @@
-#!include "main.h"
 /**
  * _strancat-concats two arrays
  *
